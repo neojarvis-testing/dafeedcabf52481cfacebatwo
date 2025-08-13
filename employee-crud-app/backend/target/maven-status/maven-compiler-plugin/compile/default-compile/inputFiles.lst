@@ -1,0 +1,5 @@
+/home/coder/project/workspace/employee-crud-app/backend/src/main/java/com/example/employee/EmployeeApplication.java
+/home/coder/project/workspace/employee-crud-app/backend/src/main/java/com/example/employee/model/Employee.java
+/home/coder/project/workspace/employee-crud-app/backend/src/main/java/com/example/employee/service/EmployeeService.java
+/home/coder/project/workspace/employee-crud-app/backend/src/main/java/com/example/employee/repository/EmployeeRepository.java
+/home/coder/project/workspace/employee-crud-app/backend/src/main/java/com/example/employee/controller/EmployeeController.java
